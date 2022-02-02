@@ -1,2 +1,4 @@
 # FirstProgramPython
-Hopefully ErlangB
+Hopefully ErlangB 
+John Bentley
+Learning about Git
